@@ -1,0 +1,5 @@
+name: Social Media
+type: module
+description: Provides configurable social media icons and links.
+package: Custom
+core_version_requirement: ^10 || ^11
